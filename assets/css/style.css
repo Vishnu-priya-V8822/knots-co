@@ -4758,3 +4758,10 @@ img:not(.no-zoom) {
 img:not(.no-zoom):hover {
     transform: scale(1.08);
 }
+.rev_slider_wrapper {
+  overflow: visible !important;
+}
+
+.rev_slider {
+  touch-action: pan-y !important;
+}
