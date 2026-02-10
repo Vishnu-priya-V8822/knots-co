@@ -77,7 +77,7 @@ Project:	Handicraft  - Responsive HTML Template
                                     touchenabled: "on",
                                     swipe_threshold: 75,
                                     swipe_min_touches: 1,
-                                    swipe_direction: "vertical",
+                                    swipe_direction: "horizontal",
                                     drag_block_vertical: false
                                 },
                                 bullets: {
@@ -160,7 +160,7 @@ Project:	Handicraft  - Responsive HTML Template
                                     touchenabled: "on",
                                     swipe_threshold: 75,
                                     swipe_min_touches: 1,
-                                    swipe_direction: "vertical",
+                                    swipe_direction: "horizontal",
                                     drag_block_vertical: false
                                 },
                                 bullets: {

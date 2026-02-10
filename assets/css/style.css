@@ -4758,3 +4758,9 @@ img:not(.no-zoom) {
 img:not(.no-zoom):hover {
     transform: scale(1.08);
 }
+@media (max-width: 768px) {
+  .rev_slider_wrapper,
+  .rev_slider {
+    touch-action: pan-y !important;
+  }
+}
